@@ -2,6 +2,7 @@
   "name": "project-forkify",
   "version": "1.0.0",
   "description": "",
+  "main": "index.html",
   "scripts": {
     "start": "parcel index.html"
   },
